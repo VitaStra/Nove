@@ -1,4 +1,4 @@
-## Repository for a quick start with selendroid
+## Repository for a quick start with Maven
 
 The documentation is available at: 
 
